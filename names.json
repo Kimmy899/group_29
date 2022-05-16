@@ -1,5 +1,9 @@
 {
 	"p1":"Alex",
+<<<<<<< HEAD
 	"p2":"Alina",
 	"p3";"Viktor"
+=======
+	"p2":"Jon",
+>>>>>>> adb9c3b2a3f13e18505330cafe95bae5e752a8f8
 }
